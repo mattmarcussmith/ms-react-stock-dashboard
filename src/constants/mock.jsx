@@ -74,9 +74,99 @@ export const mockHistoricalData = {
     },
     {
       "actual": 1.2,
+      "estimate": 6.1855,
+      "period": "2022-09-30",
+      "quarter": 3,
+      "surprise": 4.0145,
+      "surprisePercent": 1.2231,
+      "symbol": "AAPL",
+      "year": 2022
+    },
+    {
+      "actual": 1.88,
+      "estimate": 1.9744,
+      "period": "2023-03-31",
+      "quarter": 1,
+      "surprise": -0.0944,
+      "surprisePercent": -4.7812,
+      "symbol": "AAPL",
+      "year": 2023
+    },
+    {
+      "actual": 1.29,
+      "estimate": 1.2957,
+      "period": "2022-12-31",
+      "quarter": 4,
+      "surprise": -0.0057,
+      "surprisePercent": -0.4399,
+      "symbol": "AAPL",
+      "year": 2022
+    },
+    {
+      "actual": 1.2,
       "estimate": 1.1855,
       "period": "2022-09-30",
       "quarter": 3,
+      "surprise": 0.0145,
+      "surprisePercent": 1.2231,
+      "symbol": "AAPL",
+      "year": 2022
+    },
+    {
+      "actual": 1.88,
+      "estimate": 1.9744,
+      "period": "2023-03-31",
+      "quarter": 1,
+      "surprise": -0.0944,
+      "surprisePercent": -4.7812,
+      "symbol": "AAPL",
+      "year": 2023
+    },
+    {
+      "actual": 1.29,
+      "estimate": 1.2957,
+      "period": "2022-12-31",
+      "quarter": 2,
+      "surprise": -0.0057,
+      "surprisePercent": -0.4399,
+      "symbol": "AAPL",
+      "year": 2022
+    },
+    {
+      "actual": 1.2,
+      "estimate": 3.1855,
+      "period": "2022-09-30",
+      "quarter": 2,
+      "surprise": 1.0145,
+      "surprisePercent": 1.2231,
+      "symbol": "AAPL",
+      "year": 2022
+    },
+    {
+      "actual": 1.88,
+      "estimate": 1.9744,
+      "period": "2023-03-31",
+      "quarter": 4,
+      "surprise": -0.0944,
+      "surprisePercent": -4.7812,
+      "symbol": "AAPL",
+      "year": 2023
+    },
+    {
+      "actual": 1.29,
+      "estimate": 1.2957,
+      "period": "2022-12-31",
+      "quarter": 4,
+      "surprise": -0.0057,
+      "surprisePercent": -0.4399,
+      "symbol": "AAPL",
+      "year": 2022
+    },
+    {
+      "actual": 1.2,
+      "estimate": 6.1855,
+      "period": "2022-09-30",
+      "quarter": 4,
       "surprise": 0.0145,
       "surprisePercent": 1.2231,
       "symbol": "AAPL",

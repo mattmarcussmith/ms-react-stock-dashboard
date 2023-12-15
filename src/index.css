@@ -3,23 +3,22 @@
 @tailwind utilities;
 
 @layer components {
-    .custom-scrollbar::-webkit-scrollbar {
-        width: 4px
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 4px;
+  }
 
-    }
-    .custom-scrollbar::-webkit-scrollbar-track{
-        background: transparent;
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
 
-    }
-    .custom-scrollbar::-webkit-scrollbar-thumb{
-        background-color: #a54bfc;
-        width: 5px;
-        border-radius: 10px;
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #a5b4fc;
+    width: 5px;
+    border-radius: 10px;
+  }
 
-
-    }
-    .custom-scrollbar-dark::-webkit-scrollbar-thumb {
-        background-color: #312e81
-    }
+  .custom-scrollbar-dark::-webkit-scrollbar-thumb {
+    background-color: #312e81;
+  }
 }
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
